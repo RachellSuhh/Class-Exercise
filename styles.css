@@ -20,21 +20,21 @@ header {
     top: 40%; 
     left: 50%;
     transform: translate(-50%, -50%); 
-    color: #FFFFFD;     
+    color: #dededd;     
     font-size: 50px; 
     z-index: 2; 
-    text-shadow: 2px 2px 4px #3C3523; 
+    text-shadow: 2px 2px 4px #552F1A; 
     font-family: "Kaushan Script", serif; /*testing*/
 }
 
 
 body {
-    background-color: #FFFFFD;
+    background-color: #1C0D08;
   font-family: "Lexend Mega", serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  color: #3C3523;
+  color: #CABAAA;
 }
 
 .lexend-mega {
@@ -51,14 +51,14 @@ body {
 
 .Baies {
     display: flex;
-    color: #3C3523;
+    color: #1C0D08;
     flex-direction: column;
     height: 100vh;
     width: 25vw;
     overflow: scroll;
     padding: 24px;
-    background-color: #C2B085;
-    border: 2px solid #C2B085;
+    background-color: #CABAAA;
+    border: 2px solid #CABAAA;
     border-radius: 10px;
     margin-right: 16px;
 
@@ -67,14 +67,14 @@ body {
 
 .Feu-De-Bois {
     display: flex;
-    color: #3C3523;
+    color: #1C0D08;
     flex-direction: column;
     height: 100vh;
     width: 25vw;
     overflow: scroll;
     padding: 24px;
-    background-color: #C2B085;
-    border: 2px solid #C2B085;
+    background-color: #CABAAA;
+    border: 2px solid #CABAAA;
     border-radius: 10px;
     margin-right: 16px;
 }
@@ -82,14 +82,14 @@ body {
 
 .Figuier {
     display: flex;
-    color: #3C3523;
+    color: #1C0D08;
     flex-direction: column;
     height: 100vh;
     width: 25vw;
     overflow: scroll;
     padding: 24px;
-    background-color: #C2B085;
-    border: 2px solid #C2B085;
+    background-color: #CABAAA;
+    border: 2px solid #CABAAA;
     border-radius: 10px;
     margin-right: 16px;
 }
@@ -97,34 +97,35 @@ body {
 
 .Roses {
     display: flex;
-    color: #3C3523;
+    color: #1C0D08;
     flex-direction: column;
     height: 100vh;
     width: 25vw;
     overflow: scroll;
     padding: 24px;
-    background-color: #C2B085;
-    border: 2px solid #C2B085;
+    background-color: #CABAAA;
+    border: 2px solid #CABAAA;
     border-radius: 10px;
     margin-right: 16px;
 }
 
 a {
     text-decoration: none; 
-    color: #3C3523; 
+    color: #1C0D08; 
     padding: 5px 10px; 
-    border: 2px solid #3C3523; 
+    border: 2px solid #1C0D08; 
     border-radius: 5px; 
     display: inline-block; 
 }
 
 a:hover {
-    background-color: #3C3523;
-    color: #FFFFFD; 
+    background-color: #938373;
+    color: #CABAAA; 
+    border: 2px solid #938373;
 }
 
 img {
-    background-color: #C2B085;
+    background-color: #CABAAA;
 }
 
 footer {
