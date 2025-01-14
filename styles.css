@@ -1,9 +1,9 @@
 header {
     position: relative; 
     width: 100%; 
-    height: 300px; 
+    height: 500px;   
     overflow: hidden; 
-    margin-bottom: 50px;
+    padding: 50px;
 }
 
 .header-video {
@@ -23,7 +23,7 @@ header {
     color: #FFFFFD;     
     font-size: 30px; 
     z-index: 2; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+    text-shadow: 2px 2px 4px #3C3523; 
     justify-content: space-around;
 }
 
