@@ -17,7 +17,7 @@ header {
 
 .header-text {
     position: absolute; 
-    top: 40%; 
+    top: 200px; 
     left: 50%;
     transform: translate(-50%, -50%); 
     color: #dededd;     
@@ -62,7 +62,7 @@ body {
     overflow: scroll;
     padding: 24px;
     background-color: #CABAAA;
-    border: 2px solid #CABAAA;
+    border: 0px solid #CABAAA;
     border-radius: 10px;
 
 }
@@ -77,7 +77,7 @@ body {
     overflow: scroll;
     padding: 24px;
     background-color: #CABAAA;
-    border: 2px solid #CABAAA;
+    border: 0px solid #CABAAA;
     border-radius: 10px;
 }
 
@@ -91,7 +91,7 @@ body {
     overflow: scroll;
     padding: 24px;
     background-color: #CABAAA;
-    border: 2px solid #CABAAA;
+    border: 0px solid #CABAAA;
     border-radius: 10px;
 }
 
@@ -105,7 +105,7 @@ body {
     overflow: scroll;
     padding: 24px;
     background-color: #CABAAA;
-    border: 2px solid #CABAAA;
+    border: 0px solid #CABAAA;
     border-radius: 10px;
 }
 
