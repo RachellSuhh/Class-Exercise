@@ -17,14 +17,14 @@ header {
 
 .header-text {
     position: absolute; 
-    top: 50%; 
+    top: 40%; 
     left: 50%;
     transform: translate(-50%, -50%); 
     color: #FFFFFD;     
-    font-size: 30px; 
+    font-size: 50px; 
     z-index: 2; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
-    justify-content: space-around;
+    text-shadow: 2px 2px 4px #3C3523; 
+    font-family: "Kaushan Script", serif;
 }
 
 
